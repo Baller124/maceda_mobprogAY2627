@@ -2,4 +2,4 @@
 # 2024-1008280
 # Inf241
 
-Labaratory 0: Discussion
+Labaratory 0: Lorem Ipsum
