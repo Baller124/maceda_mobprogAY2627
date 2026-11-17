@@ -1,17 +1,9 @@
-# Maceda Mobile Programming Project
+<<<<<<< HEAD
+# Maceda, Monthly A.
+# 2024-1008280
+# Inf241
 
-This repository contains a Flutter mobile programming project.
-
-## News feed image
-
-`NewsFeedCard` has an optional `hasImage` flag. Set it to `true` to show the owl image in the post; set it to `false` (the default) for a text-only post. The owl image is registered as an asset in `pubspec.yaml`.
-
-## Run the app
-
-From the Flutter application directory:
-
-```sh
-cd Maceda_mobprogAY2627
-flutter pub get
-flutter run
-```
+Labaratory 0: Lorem Ipsum
+=======
+# maceda_mobprogAY2627
+>>>>>>> 05df0276db3b3d2e034c4876e43d8d215667d580
